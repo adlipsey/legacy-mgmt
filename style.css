@@ -134,7 +134,8 @@ h3 {
 
 .portraits {
 	box-shadow: 3px 3px 2px #8B8378;
-	margin-bottom: .5rem;
+	margin: 10px;
+	float: left;
 }
 
 .subHeader {
